@@ -1,3 +1,4 @@
 # web-scrape
 
-Three python files, for web scrape of websites(ets, flipkart, imdb).
+Ets and IMDB webscraping by BS4.
+Flipkart webscraping by selenium.
